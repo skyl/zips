@@ -7,6 +7,7 @@
   Credits: @daira
            @str4d
            @nuttycom
+           @conradoplg
   Status: Draft
   Category: Consensus
   Created: 2024-06-26
@@ -20,22 +21,6 @@ Terminology
 The key words "MUST", "REQUIRED", "MUST NOT", "SHOULD", and "MAY" in this
 document are to be interpreted as described in BCP 14 [#BCP14]_ when, and only
 when, they appear in all capitals.
-
-.. {Avoid duplicating definitions from other ZIPs. Instead use wording like this:}
-
-.. The terms "Mainnet" and "Testnet" in this document are to be interpreted as
-.. defined in the Zcash protocol specification [#protocol-networks]_.
-
-.. The term "full validator" in this document is to be interpreted as defined in
-.. the Zcash protocol specification [#protocol-blockchain]_.
-
-.. The terms below are to be interpreted as follows:
-
-.. {Term to be defined}
-..   {Definition.}
-.. {Another term}
-..   {Definition.}
-
 
 .. |percentage| replace:: 50%
 
